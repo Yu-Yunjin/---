@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/220322-01-01-04 (2).jpg</file>
+    <file>image/administrator.jpg</file>
+    <file>image/37.png</file>
+    <file>image/b3.png</file>
+  </qresource>
+</RCC>
